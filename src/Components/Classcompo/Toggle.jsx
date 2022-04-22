@@ -30,3 +30,5 @@ export class Toggle extends React.Component{
         )
     }
 }
+
+//ClassName is recommended for all browser compatibility 
